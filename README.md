@@ -2,7 +2,7 @@
 
 
 What is a CMS?
-> scipt to scan and pentest for *WordPress, Joomla, Drupal etc*.
+> script to scan and pentest for *WordPress
 
 Release History
 
