@@ -60,11 +60,11 @@ For guided scanning:
 
 new version 
 
-u can now load plugin vulns from json file 
-u can rwite script python 
-add some cve on script when found vulns send alert 
-Double click vulns to auto exploit 
-Wait for the next update for more fixes.
+-u can now load plugin vulns from json file 
+-u can rwite script python 
+-add some cve on script when found vulns send alert 
+-Double click vulns to auto exploit 
+-Wait for the next update for more fixes.
 
 Disclaimer:
 
