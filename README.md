@@ -8,7 +8,7 @@ Release History
 
 upgrade version to pro 
 
-![Image](https://github.com/user-attachments/assets/bc7aa738-9fbc-442d-a7ac-9ede521502ee)
+![Image](https://github.com/user-attachments/assets/921a00bd-c876-4f2b-92c9-4a8177c7d0ad)
 
 ![Image](https://github.com/user-attachments/assets/2d8c04c5-3876-4742-a60b-fe56c06c3922)
 
