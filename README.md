@@ -6,29 +6,28 @@ What is a CMS?
 
 Release History
 
-this is beta version 
+upgrade version to pro 
 
-![Image](https://github.com/user-attachments/assets/280a5a24-b9b0-49ca-9b78-c3fc6cdceba6)
+![Image](https://github.com/user-attachments/assets/bc7aa738-9fbc-442d-a7ac-9ede521502ee)
+
+![Image](https://github.com/user-attachments/assets/2d8c04c5-3876-4742-a60b-fe56c06c3922)
+
+![Image](https://github.com/user-attachments/assets/3cfe2cc0-4465-476a-9782-eb9a9e5b348c)
+
+![Image](https://github.com/user-attachments/assets/d08aadaf-cd42-41fd-9aee-f2ffbec5be9c)
 
 
-![Image](https://github.com/user-attachments/assets/2621a503-ae01-46e8-b047-b0e1beae0a33)
+## Functions Of CMS STORM: is now suuport full wordpress 
 
-
-## Functions Of CMS STORM:
-
-- Basic CMS Detection wordpress joomla drubal presta
+- Basic CMS Detection wordpress 
 - 
 Wordpress Scans
   - Detects Version
   - User Enumeration
   - Plugins Enumeration
-  - Theme will be add later
+  - add same Theme with auto exploit
   - Detects Users 
   - Looks for Version Vulnerabilities
-- Joomla Scans
-  - Version detection
-  - Plugins detection
-  - Admin page finder
 
 
 Requirements and Compatibility:
@@ -59,9 +58,13 @@ For guided scanning:
 
 
 
-Checking For auto Update from nvd just press update cve and plugin 
+new version 
 
-this is beta version 
+u can now load plugin vulns from json file 
+u can rwite script python 
+add some cve on script when found vulns send alert 
+Double click vulns to auto exploit 
+Wait for the next update for more fixes.
 
 Disclaimer:
 
